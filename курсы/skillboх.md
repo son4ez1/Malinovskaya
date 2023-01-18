@@ -2,5 +2,7 @@
 
 Skillbox теория - https://docs.google.com/document/d/14IFIZanuQzPt8cO15kYYXr4KdIAdxeTH2Rawl98UCig/edit?usp=sharing
 
+Код(задание) - https://colab.research.google.com/drive/1QE8Gj7Ftc-tsU_2zxfo8rqqYU4MJCyAI?usp=sharing
+
 
 
