@@ -4,5 +4,7 @@ Skillbox теория - https://docs.google.com/document/d/14IFIZanuQzPt8cO15kYY
 
 Код(задание) - https://colab.research.google.com/drive/1QE8Gj7Ftc-tsU_2zxfo8rqqYU4MJCyAI?usp=sharing
 
+презентация 3д - https://docs.google.com/presentation/d/13RPtBAkgCtA4Qa6HBQRF-02vCS5WhMHnuo1Zx3twjNI/edit?usp=sharing
+
 
 
