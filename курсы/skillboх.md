@@ -7,3 +7,5 @@ Skillbox теория - https://docs.google.com/document/d/14IFIZanuQzPt8cO15kYY
 презентация 3д - https://docs.google.com/presentation/d/13RPtBAkgCtA4Qa6HBQRF-02vCS5WhMHnuo1Zx3twjNI/edit?usp=sharing
 
 интенсив 04-06 мая - https://docs.google.com/presentation/d/1CED9ZWYmzv1tKr0jHMO4pZpIPi7EJJjZO6Azdpc5idw/edit?usp=sharing
+
+интенсив 15-17 мая - https://docs.google.com/presentation/d/1viur4MBmxInO3nVwtvWeYWhv0NHVdTr2Z1I2mVtzBGw/edit?usp=sharing
