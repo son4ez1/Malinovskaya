@@ -4,3 +4,5 @@
 
 
 ![photo_5377713953184007530_y](https://user-images.githubusercontent.com/113089517/236241404-32d09e13-166a-4ef2-8c0e-a4b2f43ee98d.jpg)
+
+![Результат - 196805747](https://github.com/son4ez1/Malinovskaya/assets/113089517/28ded5bf-b9f7-4cb6-8d39-4044c8524bd8)
